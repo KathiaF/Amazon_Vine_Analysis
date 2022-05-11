@@ -37,7 +37,8 @@ Data Source: amazon_reviews_us_Beauty_v1_00
 | <img src="/Resources/img7.png"> | <img src="/Resources/img8.png"> | 
 
 
-### Deliverable 2: Determine Bias of Vine Reviews
+### Deliverable 2 & 3: Determine Bias of Vine Reviews
+
 - How many Vine reviews and non-Vine reviews were there? 38010
   - Vine reviews: 647
   - non-Vine reviews: 74,113
@@ -47,3 +48,5 @@ Data Source: amazon_reviews_us_Beauty_v1_00
 
 - What percentage of Vine reviews were 5 stars? 35.39%
 - What percentage of non-Vine reviews were 5 stars? 58.31%
+
+### Summary
