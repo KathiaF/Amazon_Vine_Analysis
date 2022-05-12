@@ -53,7 +53,7 @@ Data Source: amazon_reviews_us_Beauty_v1_00
 ### Summary
 Out of a total of 74,760 reviews in the beauty dataset 99.13% were non Vine members and only 645 were paid reviews. It can also be seen that the reviews of the of the Vine members are not biased, since the percentage that gives 5 stars to the products is only 35.39%, which shows us that they are more critical in their reviews.
 
-To support this conclusion, it is recommended to perform this analysis on another dataset and look at the distribution of all star-level reviews, to find out if the Vine members tend to write neutral or bad reviews.
+To support this conclusion, it is recommended to perform this analysis on another dataset and look at the distribution of all star rating reviews, to find out if the Vine members tend to write neutral or bad reviews.
 
 
 
